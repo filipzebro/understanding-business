@@ -1,0 +1,26 @@
+feature,importance
+cat__FLIGHT_TYPE_One-Way,0.17583671
+num__stay_length_days,0.062866464
+cat__FLIGHT_TYPE_Round-Trip,0.0607291
+cat__destination_prefix_BU,0.029079951
+num__travel_span_hours,0.028421227
+num__segment_count,0.02509885
+cat__BROWSER_TYPE_apple,0.022422472
+cat__destination_prefix_CI,0.019394651
+num__emd_price,0.019030614
+num__pax_total,0.018303748
+cat__origin_prefix_CA,0.017482907
+num__ADULTS,0.01656551
+cat__MARKET_GREAT MERIDIAN,0.0165203
+cat__MARKET_UPPER APEX,0.015036277
+num__is_hub_caj_route,0.014974467
+num__DTD,0.014921157
+cat__destination_prefix_BI,0.014497656
+cat__origin_prefix_CI,0.0140146855
+cat__FIRST_TOUCH_CHANNEL_MetaSearches,0.013805954
+cat__MARKET_NORTH ZENITH,0.0137250805
+cat__MARKET_SOUTH MERIDIAN,0.013640097
+cat__stay_bucket_unknown_or_oneway,0.012893636
+cat__LANGUAGE_LANG_09,0.012116005
+cat__origin_prefix_BO,0.011942668
+num__FARE_YQ_TICKET,0.011782043

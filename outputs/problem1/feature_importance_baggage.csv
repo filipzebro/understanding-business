@@ -1,0 +1,26 @@
+feature,importance
+num__pax_total,0.22532131
+num__stay_length_days,0.08195071
+num__ADULTS,0.07901961
+cat__fare_bucket_very_low,0.044742562
+cat__FLIGHT_TYPE_Round-Trip,0.038393077
+num__FARE_YQ_TICKET,0.03508646
+num__is_hub_caj_route,0.034668177
+num__DTD,0.028937036
+num__CHILDREN,0.027940825
+num__has_child_or_infant,0.026563058
+cat__dtd_bucket_31_60,0.025974935
+num__travel_span_hours,0.025773792
+cat__FLIGHT_TYPE_One-Way,0.024835404
+cat__LANGUAGE_LANG_09,0.02384097
+cat__LAST_TOUCH_CHANNEL_Direct,0.021800768
+num__display_position,0.02094013
+cat__stay_bucket_unknown_or_oneway,0.020925414
+cat__first_booking_class_Y,0.018390505
+cat__MARKET_LOWER VERTEX,0.017718233
+cat__destination_prefix_BU,0.017431775
+num__emd_price,0.016664926
+cat__route_direction_AREA_C_TO_AREA_C,0.013692406
+cat__destination_prefix_CA,0.010781572
+cat__first_rbd_infrequent_sklearn,0.009397158
+num__has_loyalty,0.009026557

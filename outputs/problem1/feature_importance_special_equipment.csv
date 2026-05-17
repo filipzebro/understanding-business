@@ -1,0 +1,26 @@
+feature,importance
+cat__destination_prefix_CA,0.07645982
+cat__stay_bucket_6_8,0.06893964
+num__segment_count,0.04657367
+num__is_hub_caj_route,0.044336967
+num__stay_length_days,0.025213955
+cat__destination_prefix_BI,0.02515193
+cat__stay_bucket_unknown_or_oneway,0.02490958
+cat__destination_prefix_BE,0.023185313
+num__has_connection,0.021388125
+cat__destination_area_AREA_B,0.020473342
+cat__origin_prefix_BE,0.019689664
+cat__route_direction_AREA_B_TO_AREA_B,0.019630924
+cat__dtd_bucket_15_30,0.0183056
+cat__FLIGHT_TYPE_Round-Trip,0.01647576
+cat__destination_prefix_CI,0.016399523
+cat__MARKET_UPPER APEX,0.016234346
+num__FARE_YQ_TICKET,0.016003964
+cat__FLIGHT_TYPE_One-Way,0.015545971
+cat__destination_prefix_BU,0.014764108
+num__DTD,0.014649842
+cat__stay_bucket_1_2,0.014158491
+cat__fare_bucket_very_high,0.01405572
+cat__destination_prefix_BA,0.012907176
+num__ADULTS,0.011840207
+cat__first_booking_class_Y,0.010881443

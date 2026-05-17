@@ -1,0 +1,7 @@
+product,notebook,offers,purchases,conversion_rate,revenue,avg_sold_price,avg_offered_price
+BAGGAGE,outputs\problem1\notebooks\baggage_driver_analysis.ipynb,500999,26292,0.0524791466649634,392588.02434669994,14.931843311528219,12.329491381232502
+PET,outputs\problem1\notebooks\pet_driver_analysis.ipynb,373662,4351,0.011644213219433605,94554.5797676,21.7316892134222,22.16778170969994
+SPECIAL EQUIPMENT,outputs\problem1\notebooks\special_equipment_driver_analysis.ipynb,298377,1918,0.006428109405215549,43444.687594,22.651036284671534,21.376909935440064
+FAST TRACK,outputs\problem1\notebooks\fast_track_driver_analysis.ipynb,325533,8019,0.024633447300273704,19548.783400499997,2.437808130751964,2.4400498375737643
+MEAL,outputs\problem1\notebooks\meal_driver_analysis.ipynb,390162,4395,0.011264551647777078,17226.2422754,3.9195090501478953,4.3813747288139275
+BUSINESS LOUNGE,outputs\problem1\notebooks\business_lounge_driver_analysis.ipynb,171476,801,0.004671207632554993,10280.0942904,12.834075268913859,12.457157277852291
