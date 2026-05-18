@@ -92,6 +92,27 @@ Business interpretation: PET is a niche product, but it has meaningful revenue
 because of its higher unit value. It should be targeted to specific markets and
 route contexts rather than broadly promoted.
 
+More concrete PET segments:
+
+| Feature | High-Conversion Segment | Conversion Rate | Lift vs PET Baseline |
+|---|---:|---:|---:|
+| Market | WEST MERIDIAN | 5.15% | 4.42x |
+| Market | GREAT MERIDIAN | 4.10% | 3.52x |
+| RBD | Z | 3.66% | 3.14x |
+| Flight type | Multi-City | 3.32% | 2.85x |
+| Route direction | AREA_B_TO_AREA_D | 3.24% | 2.78x |
+| RBD | F | 3.09% | 2.66x |
+| Market | NORTH ZENITH | 3.03% | 2.61x |
+
+The largest PET revenue pools are not always the highest-CR segments. The largest
+revenue comes from broad, high-volume segments such as booking class `Y`,
+non-loyalty customers, non-family bookings, hub routes, very high EMD price
+bucket, `AREA_C` origins, logged-out users, direct touchpoints, `UPPER APEX`
+market and one-way / unknown-stay trips.
+
+Business takeaway for PET: use it as a **targeted high-value offer**, especially
+for selected markets and RBDs. Do not promote it equally to all passengers.
+
 ### SPECIAL EQUIPMENT
 
 The strongest signals for SPECIAL EQUIPMENT purchase are:
@@ -105,6 +126,28 @@ The strongest signals for SPECIAL EQUIPMENT purchase are:
 Business interpretation: SPECIAL EQUIPMENT behaves similarly to a specialized
 travel-need product. It is less frequent, but can be relevant for more complex
 travel patterns and selected route/market combinations.
+
+More concrete SPECIAL EQUIPMENT segments:
+
+| Feature | High-Conversion Segment | Conversion Rate | Lift vs Product Baseline |
+|---|---:|---:|---:|
+| Flight type | Multi-City | 3.84% | 5.97x |
+| Market | NEW MERIDIAN | 2.87% | 4.47x |
+| Route direction | AREA_B_TO_AREA_D | 2.54% | 3.95x |
+| Route direction | AREA_D_TO_AREA_B | 2.36% | 3.68x |
+| Market | EAST VERTEX | 2.28% | 3.55x |
+| RBD | D | 2.20% | 3.43x |
+| Stay bucket | 6-8 days | 1.56% | 2.43x |
+| Passenger group | 4+ passengers | 1.40% | 2.17x |
+
+The largest SPECIAL EQUIPMENT revenue pools are broad segments such as booking
+class `Y`, non-family bookings, non-loyalty customers, `AREA_C` origins,
+round-trips, very high EMD price bucket, logged-out users, hub routes, `UPPER
+APEX` market, Google browser users and `AREA_C_TO_AREA_B` route direction.
+
+Business takeaway for SPECIAL EQUIPMENT: prioritize it for **complex trips and
+specific route/market contexts**. Multi-city journeys and selected directional
+routes are the clearest actionable signals.
 
 ### FAST TRACK, MEAL and BUSINESS LOUNGE
 
